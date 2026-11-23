@@ -1,0 +1,6 @@
+{
+  "name": "NSRA 10s Rapid Fire Pistol Audio Loop & Timer",
+  "description": "Rule-compliant NSRA 10-second 5-shot rapid fire pistol audio loop and WAV generator with official loading, attention, and firing commands.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
